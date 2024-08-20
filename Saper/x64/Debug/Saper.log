@@ -1,0 +1,6 @@
+﻿  Saper.cpp
+D:\С++\Проекты_С++\Saper\Saper.cpp(13,17): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\С++\Проекты_С++\Saper\Saper.cpp(13,20): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\С++\Проекты_С++\Saper\Saper.cpp(346,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\С++\Проекты_С++\Saper\Saper.cpp(177): warning C4715: Map::proverka: значение возвращается не при всех путях выполнения
+  Saper.vcxproj -> D:\С++\Проекты_С++\Saper\x64\Debug\Saper.exe
